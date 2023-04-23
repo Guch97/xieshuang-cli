@@ -1,2 +1,2 @@
 # xieshuang-cli
-xieshuang-cli 命令行工具
+xieshuang-cli Command line tools
